@@ -2,9 +2,7 @@
 
   <br />
 
-  <h2 align="center">Responsive Portfolio Website</h2>
-
-  Responsive Portfolio Website using HTML, CSS, and JavaScript.
+  <h2 align="center">My Portfolio</h2>
 
   <a href="https://pawantech12.github.io/portfolio-website/"><strong>➥ Live Demo</strong></a>
 
