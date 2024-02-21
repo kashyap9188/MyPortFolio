@@ -4,7 +4,7 @@
 
   <h2 align="center">My Portfolio</h2>
 
-  <a href="https://pawantech12.github.io/portfolio-website/"><strong>➥ Live Demo</strong></a>
+  <a href="https://kashyaprajodiya.netlify.app"><strong>➥ Live Demo</strong></a>
 
 </div>
 
